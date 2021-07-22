@@ -1,0 +1,18 @@
+.main {
+    height: 20vh;
+    width: 100vw;
+  }
+  
+  .title {
+    text-align: center;
+    width: 100%;
+    padding: 2%;
+    color: #efefef;
+  }
+  
+  .bottom {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+  }
